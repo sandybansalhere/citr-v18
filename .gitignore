@@ -1,0 +1,17 @@
+# OS Related 
+.DS_Store
+
+# Dependency directory
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+
+# Test coverage reports
+coverage/
+
+# IDE settings
+.vscode/
