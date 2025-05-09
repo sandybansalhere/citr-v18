@@ -1,6 +1,6 @@
 # Complete intro to React
 
-Complete intro to react `citr-v9` is all about **client-side React** and for more advance react concept and **Server-side React** please refer to `ir-v9`.
+Complete intro to react `citr-v18` is all about **client-side React** and for more advance react concept and **Server-side React** please refer to `ir-v19`.
 
 ## Understanding How React Works Across Platforms
 
