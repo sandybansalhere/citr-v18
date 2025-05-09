@@ -1,4 +1,4 @@
-# 🚀 Complete intro to React ⚛️
+# 🚀 Complete intro to React v18.3.1 ⚛️
 
 Complete intro to react __citr-v18__ is all about **client-side React** and for more advance react concept and **Server-side React** please refer to __ir-v19__.
 
