@@ -18,6 +18,16 @@ export default defineConfig({
   server: {
     port: 5173, // start dev server on http://localhost:3000
     open: false, // open browser automatically when dev server starts
+    proxy: {
+      "/api": {
+        target: "http://localhost:3000",
+        changeOrigin: true,
+      },
+      "/public": {
+        target: "http://localhost:3000",
+        changeOrigin: true,
+      },
+    },
   },
   build: {
     outDir: "dist", // where the production build goes
