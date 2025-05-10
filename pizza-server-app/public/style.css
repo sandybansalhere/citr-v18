@@ -26,36 +26,3 @@ body {
   font-family: var(--font);
   font-weight: 500;
 }
-
-.app {
-  padding: 20px 8px;
-}
-
-.shop-title {
-  margin-bottom: 24px;
-}
-
-.pizza-card {
-  display: flex;
-  max-width: 600px;
-  margin: 0px 0px 24px 0px;
-  background-color: beige;
-}
-
-.pizza-card__image {
-  max-width: 120px;
-}
-
-.pizza-card__content {
-  padding: 16px;
-}
-
-.pizza-card__name {
-  font-size: 18px;
-  margin-bottom: 8px;
-}
-
-.pizza-card__description {
-  font-size: 16px;
-  font-weight: 500;
-}
