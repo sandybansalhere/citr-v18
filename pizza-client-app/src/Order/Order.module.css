@@ -1,0 +1,28 @@
+.form {
+  margin-bottom: 24px;
+}
+.formGroup {
+  margin-bottom: 16px;
+}
+.formLabel {
+  display: block;
+  margin-bottom: 12px;
+}
+.selectInput {
+  width: 300px;
+  padding: 4px 5px;
+}
+.formRadioLabel {
+  margin-right: 12px;
+}
+.radioInput {
+  margin-right: 4px;
+}
+.submitButton {
+  padding: 8px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 700;
+  background-color: beige;
+}

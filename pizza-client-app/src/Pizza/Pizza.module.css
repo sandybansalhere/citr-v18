@@ -1,0 +1,20 @@
+.pizza {
+  display: flex;
+  max-width: 600px;
+  margin: 0px 0px 24px 0px;
+  background-color: beige;
+}
+.image {
+  max-width: 120px;
+}
+.content {
+  padding: 16px;
+}
+.name {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+.description {
+  font-size: 16px;
+  font-weight: 500;
+}
