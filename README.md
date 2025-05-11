@@ -4,7 +4,7 @@ Complete intro to react **citr-v18** is all about **client-side React** and for 
 
 # 🚀 React core concepts
 
-TODO: JSX, Hooks, NODE_ENV=development/production
+TODO: JSX, Hooks, NODE_ENV=development/production, React Developer Tools tips and tricks
 
 ## 📌 Understanding How React Works Across Platforms
 
