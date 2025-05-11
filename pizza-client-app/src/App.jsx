@@ -10,10 +10,9 @@ const App = () => {
     <StrictMode>
       <Header />
       <div className={styles.app}>
-        <h1 className={styles.title}>Which pizza you wanna eat today?</h1>
         <Order />
+        <PizzaOfTheDay />
       </div>
-      <PizzaOfTheDay />
     </StrictMode>
   );
 };
