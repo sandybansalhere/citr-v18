@@ -1,0 +1,26 @@
+.pizzaOfTheDay {
+}
+.heading {
+  margin-bottom: 24px;
+  color: rgb(0, 99, 180);
+}
+.heading span {
+  color: #000;
+}
+.info {
+  display: flex;
+}
+.image {
+  max-width: 150px;
+  margin-bottom: 16px;
+}
+.aside {
+  padding: 12px;
+}
+.description {
+  margin-bottom: 16px;
+}
+.price {
+  font-size: 16px;
+  color: green;
+}
