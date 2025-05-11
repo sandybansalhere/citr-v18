@@ -2,15 +2,17 @@
   margin-bottom: 24px;
 }
 .formGroup {
-  margin-bottom: 16px;
+  margin-bottom: 32px;
 }
 .formLabel {
   display: block;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 .selectInput {
-  width: 300px;
-  padding: 4px 5px;
+  width: 100%;
+  padding: 8px 8px;
+  font-size: 16px;
+  border: 1px solid rgb(20, 192, 181);
 }
 .formRadioLabel {
   margin-right: 12px;
@@ -19,10 +21,16 @@
   margin-right: 4px;
 }
 .submitButton {
-  padding: 8px 24px;
+  padding: 12px 24px;
   font-size: 16px;
   border-radius: 8px;
   border: none;
   font-weight: 700;
-  background-color: beige;
+  background-color: #e6a604;
+  cursor: pointer;
+  margin-bottom: 24px;
+}
+.orderPrice {
+  font-size: 18px;
+  font-weight: 700;
 }

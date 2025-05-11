@@ -1,11 +1,8 @@
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 70px 16px;
+}
 .title {
-  margin-bottom: 24px;
-}
-.columns {
-  display: flex;
-  gap: 24px;
-}
-.column {
-  flex: 1;
-  padding: 16px;
+  margin: 24px 0px;
 }

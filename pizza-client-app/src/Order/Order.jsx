@@ -111,7 +111,7 @@ export default function Order() {
             image={selectedPizza.image}
           />
         ) : null}
-        <p className={styles.orderPrice}>{price}</p>
+        <p className={styles.orderPrice}>Price: {price}</p>
       </div>
     </div>
   );
